@@ -1,0 +1,135 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot');
+  src:  url('../fonts/icomoon.eot#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf') format('truetype'),
+    url('../fonts/icomoon.woff') format('woff'),
+    url('../images/icomoon.svg#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ARROW_DOWN:before {
+  content: "\e900";
+}
+.icon-ARROW_NEXT_1:before {
+  content: "\e901";
+}
+.icon-ARROW_NEXT_2:before {
+  content: "\e902";
+}
+.icon-ARROW_PREVIOUS_2:before {
+  content: "\e903";
+}
+.icon-ARROW_PREVIOUS:before {
+  content: "\e904";
+}
+.icon-ARROW_UP:before {
+  content: "\e905";
+}
+.icon-CALENDAR:before {
+  content: "\e906";
+}
+.icon-CART_1:before {
+  content: "\e907";
+}
+.icon-CART_2:before {
+  content: "\e908";
+}
+.icon-CLOSE:before {
+  content: "\e909";
+}
+.icon-DELETE:before {
+  content: "\e90a";
+}
+.icon-EMAIL:before {
+  content: "\e90b";
+}
+.icon-FACEBOOK:before {
+  content: "\e90c";
+}
+.icon-FILTERS:before {
+  content: "\e90d";
+}
+.icon-HEART_1:before {
+  content: "\e90e";
+}
+.icon-HEART_2:before {
+  content: "\e90f";
+}
+.icon-ICON_1:before {
+  content: "\e910";
+}
+.icon-ICON_2:before {
+  content: "\e911";
+}
+.icon-ICON_3:before {
+  content: "\e912";
+}
+.icon-ICON_4:before {
+  content: "\e913";
+}
+.icon-ICON_5:before {
+  content: "\e914";
+}
+.icon-ICON_6:before {
+  content: "\e915";
+}
+.icon-ICON_7:before {
+  content: "\e916";
+}
+.icon-ICON_8:before {
+  content: "\e917";
+}
+.icon-INSTAGRAM:before {
+  content: "\e918";
+}
+.icon-MENU:before {
+  content: "\e919";
+}
+.icon-MINUS:before {
+  content: "\e91a";
+}
+.icon-PHONE:before {
+  content: "\e91b";
+}
+.icon-PIN:before {
+  content: "\e91c";
+}
+.icon-PLUS:before {
+  content: "\e91d";
+}
+.icon-SEARCH:before {
+  content: "\e91e";
+}
+.icon-SHARE:before {
+  content: "\e91f";
+}
+.icon-TIK-TOK:before {
+  content: "\e920";
+}
+.icon-USER_1:before {
+  content: "\e921";
+}
+.icon-USER_2:before {
+  content: "\e922";
+}
+.icon-YOUTUBE:before {
+  content: "\e923";
+}
